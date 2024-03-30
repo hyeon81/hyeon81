@@ -5,8 +5,7 @@
 https://velog.io/@hyeon81/posts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/013f062fef3d4f8aa4e0a3864ceaf927?pvs=4)
-<br/>
-[![wakatime](https://wakatime.com/badge/user/cb103aba-747e-4b2b-9943-dfd1daee2349.svg)](https://wakatime.com/@cb103aba-747e-4b2b-9943-dfd1daee2349)
+
 <br/>
 ### skill
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -30,3 +29,4 @@ https://velog.io/@hyeon81/posts)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon81&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon81&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/cb103aba-747e-4b2b-9943-dfd1daee2349.svg)](https://wakatime.com/@cb103aba-747e-4b2b-9943-dfd1daee2349)
