@@ -1,4 +1,4 @@
-## Hyeon (Kim HyeonJi)
+## Hyeon (Kim HyeonJi) 🧙🪄
 
 ### profile
 [![Velog](https://img.shields.io/badge/Velog-20c997?style=flat&logo=V&logoColor=white)](
