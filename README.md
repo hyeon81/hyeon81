@@ -1,12 +1,12 @@
-## Hyeon (Kim HyeonJi) 🧙🪄
+## Hyeon (Kim HyeonJi) 🪄
 
-### profile
+### 🧙 profile
 [![Velog](https://img.shields.io/badge/Velog-20c997?style=flat&logo=V&logoColor=white)](
 https://velog.io/@hyeon81/posts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/013f062fef3d4f8aa4e0a3864ceaf927?pvs=4)
 <br/>
-### skill
+### 🔧 skill
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)](https://reactjs.org/)
@@ -21,7 +21,7 @@ https://velog.io/@hyeon81/posts)
 [![Zustand](https://img.shields.io/badge/Zustand-FFD000?style=flat&logo=React&logoColor=black)](https://github.com/pmndrs/zustand)
 [![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0081CB?style=flat&logo=React&logoColor=white)](https://react-hook-form.com/)
 
-### education
+### 🏫 education
 2018.02 ~ 2022.08 Inha University, Media Communication
 <br/>
 2024.02 ~ 42Seoul Member
