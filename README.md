@@ -24,7 +24,7 @@ https://velog.io/@hyeon81/posts)
 ### 🏫 education
 2018.02 ~ 2022.08 Inha University, Media Communication
 <br/>
-2022.07 ~ 2024.02 42Seoul Leaner
+2022.07 ~ 2024.02 42Seoul Learner
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon81&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon81&layout=compact)
